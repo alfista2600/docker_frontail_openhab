@@ -1,0 +1,23 @@
+{
+  "words": {
+    "ERROR": "color: red;",
+    "WARNING": "color: orange;",
+    "INFO": "color: green;",
+    "DEBUG": "color: purple;",
+    "Node is DEAD": "color: red;",
+    "[GroupItemStateChangedEvent]": "color: #0026FF; font-weight: bold;",
+    "[ItemStateChangedEvent     ]": "color: #0026FF;",
+    "[ItemCommandEvent          ]": "color: #00137F;",
+    "[hingStatusInfoChangedEvent]": "color: #007F46;",
+    "received command ON": "color: black;",
+    "received command OFF": "color: black;",
+    "received command": "color: black;"
+  },
+  "lines": {
+    "pyscript": "background-color: #A6CFFD; font-weight: bold;",
+    "SyncWorker": "background-color: #A6CFFD; font-weight: bold;",
+    "ERROR": "background-color: #F3BFBF; font-weight: bold;",
+    "WARNING": "background-color: #F3D7BF; font-weight: bold;",
+    "DEBUG": "background-color: #F3BFF3; font-weight: bold;"
+  }
+}
